@@ -1,21 +1,14 @@
-import "./App.css";
+import React from "react";
+import Home from "./components/Home";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 
-function App() {
+// 외부 컴퍼런트 불러오는 방법
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>Fuck you</p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Home />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
-
-export default App;
