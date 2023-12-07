@@ -1,2 +1,68 @@
 #skill {
+  display: flex;
+  flex-direction: column;
+  width: 80vw;
+  height: fit-content;
+  margin: 150px auto auto;
+}
+
+.thumbnail_box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.skill_title {
+  font-size: calc(20px + 10vw);
+  font-weight: 600;
+}
+.skill_thumbnail {
+  width: 22%;
+}
+
+.skill_description {
+  text-align: center;
+  margin: calc(0px + 0vw) 0 calc(42px + 4vw) 0;
+}
+
+.detail_box {
+  display: flex;
+  flex-direction: column;
+}
+
+.skill_contents {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  border-bottom: 1px solid #3f3b37;
+  font-weight: 500;
+}
+
+.skill_category {
+  display: flex;
+  align-items: center;
+  flex-basis: 50%;
+}
+
+.skill_box {
+  display: flex;
+  flex-direction: row;
+}
+
+.skill_name {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 5.1vw;
+  width: 13vw;
+  background-image: url("../../../public/images/ticket.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.skill_name > span {
+  color: #eee9db;
+  text-align: center;
+  justify-content: center;
+  width: 100%;
 }
