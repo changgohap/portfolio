@@ -1,4 +1,6 @@
 #about {
+  width: 86%;
+  margin: 0 auto;
   height: 100vh;
   border: solid 1px blue;
   display: flex;
@@ -12,8 +14,15 @@
   flex-direction: column;
 }
 
+.overview_title {
+  font-size: 1.2rem;
+}
+
 .overview_box {
   overflow: hidden;
+  width: 20vw;
+  height: 20vw;
+  object-fit: cover;
   margin: auto 0;
 }
 
