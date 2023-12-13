@@ -1,33 +1,44 @@
 #about {
-  width: 86%;
-  margin: 0 auto;
+  width: 80vw;
+  margin: 150px auto auto;
   height: 100vh;
   border: solid 1px blue;
   display: flex;
   flex-direction: row;
-  align-items: center;
+  // align-items: center;
   justify-content: center;
 }
 
 .overview {
-  display: flex;
-  flex-direction: column;
+  width: 25%;
+  color: #f9f9f9;
+  font-size: 1.35rem;
 }
 
 .overview_title {
-  font-size: 1.2rem;
+  color: #3f3b37;
+  font-size: 1.35rem;
 }
 
 .overview_box {
-  overflow: hidden;
-  width: 20vw;
-  height: 20vw;
-  object-fit: cover;
-  margin: auto 0;
+  // overflow: hidden;
+  // width: 20vw;
+  // height: 20vw;
+  // object-fit: cover;
+  // margin: auto 0;
 }
 
 .overview_picture {
 }
 
 .introduce {
+  width: 72%;
+  > p {
+    color: #3f3b37;
+    transform: translate(0px, 3px);
+    font-size: 1.75rem;
+    line-height: 1.85;
+    word-break: keep-all;
+    opacity: 1;
+  }
 }

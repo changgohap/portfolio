@@ -10,6 +10,7 @@ export default function Skill() {
         <div className="skill_title">SKILLS</div>
         <div className="skill_description">
           My focused technologies: areas I have used and am currently studying
+          <div className="text-border"> </div>
         </div>
       </div>
       <div className="detail_box">

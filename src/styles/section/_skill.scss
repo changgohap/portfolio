@@ -4,6 +4,13 @@
   width: 80vw;
   height: fit-content;
   margin: 150px auto auto;
+  border: 1px solid black;
+}
+.text-border {
+  border-bottom: 5px dotted #61574d;
+  width: 20px;
+  margin: auto;
+  margin-top: calc(5px + 1vw);
 }
 
 .thumbnail_box {
@@ -13,7 +20,7 @@
   justify-content: center;
 }
 .skill_title {
-  font-size: calc(20px + 10vw);
+  font-size: calc(20px + 8vw);
   font-weight: 600;
 }
 .skill_thumbnail {
@@ -32,7 +39,7 @@
 
 .skill_contents {
   display: flex;
-  flex-wrap: wrap;
+  // flex-wrap: wrap;
   flex-direction: row;
   border-bottom: 1px solid #3f3b37;
   font-weight: 500;
@@ -41,7 +48,9 @@
 .skill_category {
   display: flex;
   align-items: center;
+  font-size: 1.5vw;
   flex-basis: 50%;
+  padding: 0 3vw;
 }
 
 .skill_box {
