@@ -69,7 +69,7 @@ export default function Journey() {
               openModal(
                 "FLOWERY",
                 "React, SCSS, GSAP, ScrollTrigger",
-                "Personal Portfolio",
+                "SSAFY 자율 프로젝트 (6인)",
                 "Step into the world of captivating digital storytelling with my personally designed and developed animated portfolio. Fusing the power of React JS, SCSS, and GSAP animations, I've crafted a dynamic showcase that transcends the ordinary. Every element, from custom animations to intricate SVG images, has been meticulously curated to resonate with the essence of my work. From ideation to execution, this project embodies my dedication to delivering high-quality design and seamless interactivity, all while highlighting my skills in frontend development and visual creativity. Dive into a visual journey that's not only a portfolio but a testament to the art of digital expression"
               )
             }
@@ -95,7 +95,7 @@ export default function Journey() {
             openModal(
               "TRACER",
               "React, SCSS, GSAP, ScrollTrigger",
-              "Personal Portfolio",
+              "SSAFY 특화 프로젝트 (6인)",
               "Step into the world of captivating digital storytelling with my personally designed and developed animated portfolio. Fusing the power of React JS, SCSS, and GSAP animations, I've crafted a dynamic showcase that transcends the ordinary. Every element, from custom animations to intricate SVG images, has been meticulously curated to resonate with the essence of my work. From ideation to execution, this project embodies my dedication to delivering high-quality design and seamless interactivity, all while highlighting my skills in frontend development and visual creativity. Dive into a visual journey that's not only a portfolio but a testament to the art of digital expression"
             )
           }
@@ -138,7 +138,7 @@ export default function Journey() {
             openModal(
               "SSAFY",
               "React, SCSS, GSAP, ScrollTrigger",
-              "Personal Portfolio",
+              "삼성청년 SW 아카데미",
               "Step into the world of captivating digital storytelling with my personally designed and developed animated portfolio. Fusing the power of React JS, SCSS, and GSAP animations, I've crafted a dynamic showcase that transcends the ordinary. Every element, from custom animations to intricate SVG images, has been meticulously curated to resonate with the essence of my work. From ideation to execution, this project embodies my dedication to delivering high-quality design and seamless interactivity, all while highlighting my skills in frontend development and visual creativity. Dive into a visual journey that's not only a portfolio but a testament to the art of digital expression"
             )
           }
