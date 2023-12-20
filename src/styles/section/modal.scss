@@ -35,6 +35,8 @@
 }
 
 .modal_body {
+  height: 90%;
+
   > h3 {
     font-size: 3rem;
     font-weight: 500;
@@ -48,6 +50,7 @@
 
 .project_info {
   display: flex;
+  height: inherit;
   gap: 50px;
 }
 
@@ -75,6 +78,8 @@
 }
 
 .project_overview {
+  // border: solid 2px red;
+  overflow-y: scroll;
   flex-basis: 70%;
   > ul {
     margin: 30px 0;
@@ -91,6 +96,10 @@
       }
     }
   }
+}
+
+.project_overview::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera*/
 }
 
 #modalCloseBtn:hover {

@@ -36,4 +36,9 @@
 
 body {
   background-color: var(--mainBg-color);
+  overflow-y: scroll;
+}
+
+body::-webkit-scrollbar {
+  display: none; /* Chrome, Safari, Opera*/
 }
