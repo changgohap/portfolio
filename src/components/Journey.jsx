@@ -70,7 +70,7 @@ export default function Journey() {
                 "FLOWERY",
                 "React, SCSS, GSAP, ScrollTrigger",
                 "SSAFY 자율 프로젝트 (6인)",
-                "Step into the world of captivating digital storytelling with my personally designed and developed animated portfolio. Fusing the power of React JS, SCSS, and GSAP animations, I've crafted a dynamic showcase that transcends the ordinary. Every element, from custom animations to intricate SVG images, has been meticulously curated to resonate with the essence of my work. From ideation to execution, this project embodies my dedication to delivering high-quality design and seamless interactivity, all while highlighting my skills in frontend development and visual creativity. Dive into a visual journey that's not only a portfolio but a testament to the art of digital expression"
+                "- 삼성청년 SW 아카데미 자율 프로젝트 지역 3등 수상 <br> - 부산 서면 / 양산의 꽃가게에서 실제 오프라인 서비스 제공 <br> - 구매자 시점 메인 페이지 / 가이드 페이지 / ai 체험 페이지 / 예약 페이지 / 가게 목록 페이지 / qr 인식 편지지 기능 개발 <br> - Recoil을 이용해 Client-Side 전역에서 필요한 상태 (Data) 를 관리 <br> - React-Query 를 이용한 비동기 데이터 캐싱 관리 및 코드 최적화<br> - Css를 이용한 애니메이션 구현"
               )
             }
           />
@@ -96,7 +96,7 @@ export default function Journey() {
               "TRACER",
               "React, SCSS, GSAP, ScrollTrigger",
               "SSAFY 특화 프로젝트 (6인)",
-              "Step into the world of captivating digital storytelling with my personally designed and developed animated portfolio. Fusing the power of React JS, SCSS, and GSAP animations, I've crafted a dynamic showcase that transcends the ordinary. Every element, from custom animations to intricate SVG images, has been meticulously curated to resonate with the essence of my work. From ideation to execution, this project embodies my dedication to delivering high-quality design and seamless interactivity, all while highlighting my skills in frontend development and visual creativity. Dive into a visual journey that's not only a portfolio but a testament to the art of digital expression"
+              "- 삼성청년 SW 아카데미 자율 프로젝트 지역 3등 수상 <br> - 부산 서면 / 양산의 꽃가게에서 실제 오프라인 서비스 제공 <br> - 구매자 시점 메인 페이지 / 가이드 페이지 / ai 체험 페이지 / 예약 페이지 / 가게 목록 페이지 / qr 인식 편지지 기능 개발 <br> - Recoil을 이용해 Client-Side 전역에서 필요한 상태 (Data) 를 관리 <br> - React-Query 를 이용한 비동기 데이터 캐싱 관리 및 코드 최적화<br> - Css를 이용한 애니메이션 구현"
             )
           }
         >
