@@ -6,9 +6,8 @@ export default function About() {
     <div id="about">
       <div className="overview">
         <p className="overview_title">
-          Hello, "I'm Omkar Gosavi, an experienced frontend developer with a
-          passion for crafting engaging user experiences. Welcome to my
-          portfolio!"
+          반갑습니다, 프론트엔드 개발자가 되기 위해 꾸준한 프로젝트 경험과
+          학습을 병행하고 있는 지원자 최창근입니다.
         </p>
         <ol className="overview_box">
           <li>
@@ -18,13 +17,10 @@ export default function About() {
       </div>
       <div className="introduce">
         <p>
-          상상한 무궁무진한 아이디어를 제가 배운 기술로 구현해가는 과정이
-          재밌습니다. 항상 새로운 시도를 두려워하지 않는 프론트엔드 개발자가
-          되겠습니다. “smooth waters run deep” 제가 가장 좋아하는 영어 격언
-          입니다. 거칠고 빠르게 지나가는 물보다 잔잔하게 오랫동안 깊이 있게
-          흐르는 물처럼 꾸준히 공부하고, 계속 해서 나아갈 자신이 있습니다.
-          성실하게 쌓은 지식으로, 회사에 실질적인 도움이 되는 프론트엔드
-          개발자로 일하고 싶습니다.
+          'Talent wins games, but teamwork and intelligence wins championships.'
+          제가 가장 좋아하는 마이클조던의 격언입니다. 소속감과 책임감을 중시하며
+          팀에 기여하기 위해 노력하는것이 즐겁습니다. 새로운 환경에서 필요한
+          기술을 빠르게 학습하고 적용하는 프론트엔드 개발자가 되겠습니다.
         </p>
       </div>
     </div>

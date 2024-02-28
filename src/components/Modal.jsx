@@ -23,7 +23,7 @@ export default function Modal(props) {
                   <strong> Site view </strong>
                 </li>
                 <li>
-                  <a href="https://naver.com">Visit link</a>
+                  <a href={`${props.url}`}>Visit link</a>
                 </li>
               </ul>
               <ul>
